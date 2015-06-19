@@ -145,3 +145,5 @@ LOGGING = {
         },
     }
 }
+
+EMAIL_SUBJECT_PREFIX = '[{{project_name}}] '
