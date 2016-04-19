@@ -38,3 +38,5 @@ nosetests.xml
 *.db
 node-modules
 celerybeat-schedule
+
+.idea
