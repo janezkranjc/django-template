@@ -2,7 +2,7 @@ from .base import *
 import os
 
 DEBUG = True
-TEMPLATE_DEBUG = DEBUG
+# TEMPLATE_DEBUG = DEBUG
 
 DEBUG_TOOLBAR = False
 
